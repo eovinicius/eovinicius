@@ -1,8 +1,8 @@
-Hi 👋, my name is Vinicius Oliveira
+## Hi 👋, my name is Vinicius Oliveira
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eovinicius/)
 
-Languages and Tools:
+## Languages and Tools:
 
 <div style="display: inline_blocck"><br/>
   <img aling="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
