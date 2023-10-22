@@ -27,6 +27,11 @@
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
       <img aling="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
     </a>
+    </a>
+        <a href="https://www.java.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+alt="java"/>
+    </a>
   </p>
 
 ---
