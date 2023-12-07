@@ -12,7 +12,7 @@
 
 ## Connect with Me:
 
-- 📨 Email: eovinicius10@gmail.com
+- 📨 Email: eovinicius10@gmail.com 
 - 📳 Cellphone: +55 (11) 94846-3792
 
 ---
