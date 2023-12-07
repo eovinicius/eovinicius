@@ -1,14 +1,23 @@
-## Connect with me:
+<h1 align="center">Hi 👋, I'm Vinicius Oliveira</h1>
+<h3 align="center">I'm passionate about programming</h3>
 
-<a href="mailto:eovinicius10@gmail.com" title="Email" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</br>
+</br>
 
-<a href="https://www.instagram.com/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+</br>
+</br>
 
-<a href="https://www.linkedin.com/in/eovinicius/" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+- 🔭 
+
+- 🌱 
+
+- 💬 
+
+- 📫 
+
+- ⚡ 
 
 ## Languages and Tools:
 
@@ -19,3 +28,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Contact Me:
+
+<ul>
+    <li> 📨 Email: eovinicius10@gmail.com </li>
+    <li> 📳 Cellphone: +55 (11) 94846-3792 </li>
+</ul>
+
