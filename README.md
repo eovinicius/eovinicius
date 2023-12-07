@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm in the college of analysis and systems development. <br>🎯 Goals: finish college and live outside the country<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm in the college of analysis and systems development. <br>🎯 Goals: finish college and live outside the country.<br>🎲 Fun fact:<br>📫 Reach me: eovinicius10@gmail.com</p> 
 
 ###
 
