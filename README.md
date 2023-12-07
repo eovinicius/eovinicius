@@ -9,7 +9,7 @@
 </br>
 </br>
 
-- 🔭 
+- 🔭 studying analysis and systems development
 
 - 🌱 
 
