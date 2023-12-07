@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*VON9gHTrzeHZbHfXsqfzEA.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
