@@ -16,7 +16,7 @@
 ###
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,azure,rabbitmq" />
 </p>
 
 
