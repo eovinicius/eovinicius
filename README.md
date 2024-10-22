@@ -19,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,azure,rabbitmq" />
 </p>
 
-
 <br clear="both">
 
 <div align="center">
