@@ -5,7 +5,7 @@
 
 - ✨ Creating bugs since 2022.
 - 📚 I'm in the college of analysis and systems development.
-- 🎯 Goals: _______________________.
+- 🎯 Goals: Become a Software/Solution Architect.
 - 📫 Reach me: eovinicius10@gmail.com
 
 ###
