@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Oliveira!
+### Hello! I'm Vinicius Oliveira!
 
 <img align="right" height="200"  src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif"  />
 
