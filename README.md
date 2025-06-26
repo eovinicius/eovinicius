@@ -13,7 +13,7 @@
 </h3>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,aws,azure" />
 </p>
 
 <br clear="both">
