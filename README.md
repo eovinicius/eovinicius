@@ -3,7 +3,6 @@
 - ✨ Creating bugs since 2022.
 - 📚 I'm in the college of analysis and systems development.
 - 🎯 Goals: Become a Software/Solution Architect.
-- 📫 Reach me: eovinicius10@gmail.com
 
 ###
 
@@ -24,4 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eovinicius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+<h3>📫 Reach me</h3>
+
+- [LinkedIn](https://www.linkedin.com/in/eovinicius/)
+- E-mail: `eovinicius10@gmail.com` 
+
