@@ -27,6 +27,5 @@
 
 <h3>📫 Reach me</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/eovinicius/)
-- E-mail: `eovinicius10@gmail.com` 
-
+- 💼 [LinkedIn](https://linkedin.com/in/eovinicius)
+- 📧 eovinicius10@gmail.com
