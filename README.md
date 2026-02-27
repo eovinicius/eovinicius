@@ -1,8 +1,6 @@
 ### Hello! I'm Vinicius Oliveira!
 
-- ✨ Writing clean and scalable code since 2022.
-- 🎓 Currently studying Systems Analysis and Development.
-- 🎯 On a mission to become a Software/Solution Architect.
+`Software Engineer @webMotors` . `4+ Years of Experience`
 
 ###
 
