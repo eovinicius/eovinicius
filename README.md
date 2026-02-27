@@ -16,12 +16,11 @@
     <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,aws,azure" />
 </p>
 
-<br clear="both">
+<h3>
+    Certifications
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eovinicius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eovinicius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<a target="__blank" href="https://www.credly.com/badges/f319a5ce-40c3-4699-95ce-4c9463e321bf/public_url"><img target="__blank" height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 
 ---
 
