@@ -5,7 +5,7 @@
 ### Skills and Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,golang,docker,kubernetes,git,github,aws,jenkins,redis,mongodb,datadog" />
 </p>
 
 ### Certifications
