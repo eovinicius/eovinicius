@@ -1,11 +1,11 @@
 ### Hello! I'm Vinicius Oliveira!
 
-`Software Engineer @webMotors` · `4+ Years of Experience`
+`Software Engineer @Itaú Unibanco` · `4+ Years of Experience`
 
 ### Skills and Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,golang,docker,kubernetes,git,github,aws,jenkins,redis,mongodb,datadog" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,golang,docker,kubernetes,git,github,aws,terraform,jenkins,redis,mongodb,datadog" />
 </p>
 
 ### Certifications
